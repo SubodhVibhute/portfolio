@@ -1,0 +1,64 @@
+nav{
+    margin-bottom:-20px !important;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color:aqua;
+    }
+   
+#home{
+    background-image: url("coder.jpg");
+   
+    background-size:cover;
+    width:100%;
+    height:80vh;
+    background-repeat:no-repeat;color:floralwhite;
+    padding:90px;
+    
+    
+}
+
+
+li{font-size:18px;}
+
+#about{
+    font-size: 19px;
+    font-family: Lucida Sans;
+}
+#resume{
+    padding: 20px;
+    box-shadow: 7px 7px 7px 7px black;
+    background-color: yellow;
+    
+}
+#resume p{
+    font:50px;
+}
+#other{
+    padding:20px;
+    box-shadow: 7px 7px 7px 7px black;
+    background-color:rgb(159, 229, 175);
+}
+ #icon{
+    font-size: 50px;
+ }
+ #bt{
+    letter-spacing: 10px;
+    color:azure;
+ }
+ footer
+ {
+    background-color: black;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+ }
+ #ficon
+ {
+    float:right;
+    margin-left: 20px;
+    font-size: 30px;
+ }
+ .fixed{
+	top:0;
+	position:fixed;
+	width:100%;
+	z-index:1;
+}
